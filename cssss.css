@@ -1,0 +1,9 @@
+h1 {color:pink;}
+h1{background-color: violet; width: 1500px }
+h1{background-size: 4000px}
+h1{background-image: url(;/home/siswa/Downloads/bunga.png;)}
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
